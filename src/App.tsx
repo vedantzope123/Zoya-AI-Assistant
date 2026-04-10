@@ -322,7 +322,7 @@ export default function App() {
                   className="flex items-center gap-2 text-violet-300/80 text-sm italic"
                 >
                   <div className="w-2 h-2 rounded-full bg-violet-400 animate-pulse" />
-                  I'm listening, Ashwani...
+                  I'm listening, Vedant...
                 </motion.div>
               )}
               {appState === "speaking" && (
