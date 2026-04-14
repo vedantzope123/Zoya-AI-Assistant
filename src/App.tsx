@@ -408,6 +408,9 @@ export default function App() {
             </button>
           )}
         </div>
+        <p className="text-electric-blue font-mono text-xs tracking-widest">
+          DESIGNED BY VEDANT ZOPE | CODED WITH PASSION AND PRECISION
+        </p>
       </footer>
     </div>
   );
